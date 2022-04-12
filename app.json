@@ -28,32 +28,27 @@
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "3335796"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "138b992a0e672e8346d8439c3f42ea78"
     },
     "OWNER_ID": {
       "description": "Your Telegram ID",
-      "value": ""
+      "value": "763990585"
     },
     "DATABASE_URL": {
       "description": "Your MongoDB URI",
-      "value": ""
+      "value": "mongodb+srv://abirhasan2005:abirhasan@cluster0.i6qzp.mongodb.net/cluster0?retryWrites=true&w=majority"
     },
     "SESSION_NAME": {
       "description": "Your Session Name",
       "value": "URL-UPLOADER"
     },
-    "BANNED_USERS": {
-      "description": "Banned Unwanted members..",
-      "value": "",
-      "required": false
-    },
     "UPDATE_CHANNEL": {
       "description": "For Force Subscribe. Paste your Update channel USERNAME (without @)..",
-      "value": "",
+      "value": "seriesplus1",
       "required": false
     },
     "DEF_THUMB_NAIL_VID_S": {
@@ -64,12 +59,7 @@
     "CHUNK_SIZE": {
       "description": "chunk size that should be used with requests",
       "value": "128"
-    },
-    "HTTP_PROXY": {
-      "description": "proxy for accessing youtube-dl in GeoRestricted Areas. Get your own proxy from https://github.com/rg3/youtube-dl/issues/1091#issuecomment-230163061",
-      "value": "",
-      "required": false
-    }
+    }    
   },
   "addons": [
   ],
